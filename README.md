@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-💻 IT Software Development Student | Undergrad in Biology
-⚡I love designing and building websites, tho I am not yet well-versed in UX/UI design. I am learning everyday
-🌱 Passionate about technology, sustainability, and creating positive impact
-📚 Currently learning Next.js, React, DSA, and DevOps
+💻 **Postgrad IT Software Development Student | Undergrad in Biology**
+⚡I love designing and building websites, tho I am not yet well-versed in UX/UI design. I am learning everyday.
+🌱 Passionate about technology, sustainability, and creating positive impact.
+📚 Currently learning Next.js, React, DSA, and DevOps.
 
 ## 🏃 Ongoing Projects:
 - **PanelPals** a comic review and forum website built using Angular, Bootstrap, Express.js, Node.js, and SQLite
