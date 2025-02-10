@@ -18,7 +18,7 @@
 --
 
 ## ✨ Fun facts
-- I love cooking
+- I love to cook
 - I spend most of my free time reading, playing games, and listening to music
 - I do bouldering when I am in the mood
 <!--
